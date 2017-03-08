@@ -1,3 +1,4 @@
+name             "pgbouncer"
 maintainer       "Christoph Krybus"
 maintainer_email "ckrybus@googlemail.com"
 license          "Apache 2.0"
